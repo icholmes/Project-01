@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Izzy Holmes
 
-# Your Github username
+# icholmes
 
 # List the things you added for points
